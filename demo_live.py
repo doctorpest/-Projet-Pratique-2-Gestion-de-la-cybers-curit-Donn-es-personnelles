@@ -330,7 +330,7 @@ def auto_mode():
   reconstruire les informations originales, quelle que soit la
   stratégie de remplacement utilisée.
 
-  {GRAY}→ Voir demo_sanitization.py pour le benchmark complet sur 4 domaines.{R}
+  
   {GRAY}→ Voir risk_comparison.png pour les graphiques comparatifs.{R}
 """)
     print("═" * 72 + "\n")
